@@ -1,13 +1,3 @@
-84% of storage used … If you run out, you can't create, edit, and upload files. Get 30 GB of storage for ₹59.00 ₹15.00/month for 2 months.
-Gemini
-Hello, Arjun
-How can I help you today?
-Summarize this folder
-Analyze each file
-in this folder
-What can Gemini do with folders
-in Google Drive
-Gemini for Workspace can make mistakes, including about people, so double-check it. Learn more
 from mpi4py import MPI
 import random
 
